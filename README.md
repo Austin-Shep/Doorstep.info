@@ -6,7 +6,7 @@ Developers-
 -Troy G. 
 -Alfonso B.
 -Daniel G. 
--Jeric
+-Jeric A.
 
 Technologies-
 -Materialize.css
