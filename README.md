@@ -1,14 +1,21 @@
 # Doorstep.info
 A Mock-up of a real estate listing service, powered by the Bridge Interactive rest api, and google maps. 
 
-##Developers
+## Overview
+For this application and first course project we decided to create a simple mock up service to demonstrate our understanding 
+of the basics in front-end web development. once you search a respectve city you can browse the listing from Bridge interactives test database. Useres who have signed up can also save listins for later viewings.
+
+## Developers
  * Austin S.
  * Troy G. 
  * Alfonso B.
  * Daniel G. 
  * Jeric A.
 
-##Technologies
+## Technologies
+ * JavaScript
+ * CSS
+ * HTML
  * Materialize.css
  * Jquery
  * Firebase Realtime-Database & User Authentication
